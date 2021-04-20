@@ -3,24 +3,24 @@ html, body {
  }
 
  body {
-     display: grid;
+     display:block;
      grid-template-rows: .1fr .30fr .60fr .05fr;
      grid-template-columns: 1fr;
-     grid-template-areas: "header" "main" "map"  "footer";
-     justify-content: center;
+     grid-template-areas: "header" "main" "map" "footer";
+     justify-content:center;
  }
 
  header {
     grid-area: header;
-    display: grid;
+    display:grid;
     grid-template-columns: .2fr .6fr .2fr;
-    justify-content: center;
+    justify-content:center;
  }
 
 .main {
-    display: grid;
+    display:grid;
     grid-area: main;
-    background-color: rgba(111, 132, 224, 0.815);
+    background-color: rgba(230, 158, 99, 0.808);
 }
 
 #map {

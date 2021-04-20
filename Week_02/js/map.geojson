@@ -1,13 +1,1 @@
-{"type":"FeatureCollection","features":[
-    
-    {"type":"Feature","properties":{"places":"Zion National Park","color":"blue"},
-        "geometry":{"type":"Point","coordinates":[-113.03146362304688,37.27022793611211]}},
-        
-    {"type":"Feature","properties":{"places":"1903 family-owned mochi bakery","color":"pink"},
-        "geometry":{"type":"Point","coordinates":[-118.24037790298463,34.050203774579316]}},
-        
-    {"type":"Feature","properties":{"places":"LA Flower Market","color":"purple"},
-        "geometry":{"type":"Point","coordinates":[-118.24955105781554,34.040187110219115]}},
-        
-    {"type":"Feature","properties":{"places":"1923 local Asian-owned nursery & florists","color":"green"},
-        "geometry":{"type":"Point","coordinates":[-118.09051886200903,34.094461167548616]}}]}
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"places":"API Foward Movement","color":"green"},"geometry":{"type":"Point","coordinates":[-118.24646785855292,34.0364663970553]}},{"type":"Feature","properties":{"places":"AADAP","color":"purple"},"geometry":{"type":"Point","coordinates":[-118.33110999315977,34.001446693876744]}},{"type":"Feature","properties":{"places":"AA/PIRC","color":"blue"},"geometry":{"type":"Point","coordinates":[-122.0554755628109,36.997728655301884]}},{"type":"Feature","properties":{"places":"Psych. Lab","color":"pink"},"geometry":{"type":"Point","coordinates":[-122.05874919891357,37.00158875009826]}}]}
