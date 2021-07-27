@@ -34,7 +34,7 @@ function createButtons(lat,lng,title){
 }
 
 // use our marker functions
-addMarker(34.075083, -118.440067,"Picnics are a great time to ketchup with friends", " <h2>@UCLA Sculpture Garden</h2> <p>A celebratory day for my Asian Am. Studies cohort</p> <img width = 300px height = 300% src = 'picnic2.jpeg'>")
-addMarker(34.062895, -118.357837,"Princess of Snooze", " <h2>@LACMA</h2> <p>By Toshi Nara, 2001</p> <img width = 300px height = 400px src = 'lacma.jpg'>")
+addMarker(34.075083, -118.440067,"Picnics are a great time to ketchup with friends", "<h2>@UCLA Sculpture Garden</h2> <p>A celebratory day for my Asian Am. Studies cohort</p> <img src='picnic.JPEG' width= 300px height= 100%>")
+addMarker(34.062895, -118.357837,"Princess of Snooze", "<h2>@LACMA</h2> <p>By Toshi Nara, 2001</p> <img src='Week_03/js/lacma.JPG' width = 300px height = 400px>")
 addMarker(34.205213, -118.225996,"Please don't touch the plants","<h2>@Lost Books</h2> <p>A surprise find</p> <img width = 200px height = 100% src = 'books.jpg'>")
 addMarker(33.83469, -116.546861,"Phenomenal","<h2>@Eight4Nine Lounge</h2> <p>Celebrating my best friend's birthday</p> <img width = 200px height = 100% src = 'mo.jpg'>")
