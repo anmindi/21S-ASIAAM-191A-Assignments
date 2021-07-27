@@ -1,0 +1,23 @@
+html, body {
+    padding: 5px;
+ }
+
+body {
+     background-color: rgb(138, 154, 91);
+     font-family: didot; color:rgb(102, 66, 40);
+     text-align:center;
+ }
+
+#map {
+    height: 70vh;
+}
+
+#button {
+    height: 50px;
+    width: 200px;
+    background-color: rgb(204,204,255);
+    color: rgb(102, 66, 40);
+    font-family: didot;
+    font-weight: bold;
+    margin-left: 4%;
+}
